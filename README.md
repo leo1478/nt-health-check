@@ -1,1 +1,0 @@
-# nt-health-check
